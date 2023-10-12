@@ -1,0 +1,25 @@
+{
+  "version": 2,
+  "dgSpecHash": "0y7qjFNLHVTtRGeC4Z2jNHIbRXzctjKybUNOvbpPT6N5pndhRKYKlDcdbSlXj0z02wjqTqfuWM09dp5O1584+w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ishukdn\\OneDrive\\projC#-work\\Examen\\demoNET_DBFirst\\demoNET_DBFirst\\demoNET_DBFirst.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ishukdn\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",
+    "C:\\Users\\ishukdn\\.nuget\\packages\\entityframework.ru\\6.2.0\\entityframework.ru.6.2.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1608",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Версия обнаруженного пакета нарушает ограничение зависимости: EntityFramework.ru 6.2.0 требуется EntityFramework (= 6.2.0), но в результате разрешения получена версия EntityFramework 6.4.4.",
+      "libraryId": "EntityFramework",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.7.2",
+        ".NETFramework,Version=v4.7.2/win",
+        ".NETFramework,Version=v4.7.2/win-x64",
+        ".NETFramework,Version=v4.7.2/win-x86"
+      ]
+    }
+  ]
+}
